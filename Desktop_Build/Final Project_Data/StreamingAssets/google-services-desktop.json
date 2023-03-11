@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "188579855956",
+    "firebase_url": "https://battle-raid-default-rtdb.firebaseio.com",
+    "project_id": "battle-raid",
+    "storage_bucket": "battle-raid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188579855956:android:86ba855e852a394fd6b7c1",
+        "android_client_info": {
+          "package_name": "com.battleraids.unity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188579855956-btitb5adfjnq7ou0o79gon40qrmghabm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiibiTyGMT4jr5d44yzqZp4pd-9KTV7JY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188579855956-btitb5adfjnq7ou0o79gon40qrmghabm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
